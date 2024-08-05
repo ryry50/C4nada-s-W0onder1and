@@ -106,6 +106,9 @@ int main()
         case 19:
             cout << "Beware!" << endl;
         break;
+        case 20:
+            cout << "" << endl;
+        break;
         default:
             cout << "NOT A RIDE!" << endl;
         break;
