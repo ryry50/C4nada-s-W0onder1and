@@ -6,7 +6,7 @@ int main()
 {
     int ride;
     cout << "Hello fellow user, Name a ride at" << endl;
-    cout << "Canada's Wonderland and I will describe/opinionate on3 it" << endl;
+    cout << "Canada's Wonderland and I will describe/opinionate on it" << endl;
 
 
     while (ride != 20) {
